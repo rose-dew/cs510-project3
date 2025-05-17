@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.web\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.web\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE334DDC-4F06-41C9-899D-2FDD7FB640E0}|..\\MicroML.AST\\MicroML.AST.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.ast\\parser.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE334DDC-4F06-41C9-899D-2FDD7FB640E0}|..\\MicroML.AST\\MicroML.AST.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.ast\\microml.ast.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.web\\microml.web.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61E10D09-245A-4472-8638-CBCD74E9BD26}|MicroML.Web.fsproj|solutionrelative:microml.web.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE334DDC-4F06-41C9-899D-2FDD7FB640E0}|..\\MicroML.AST\\MicroML.AST.fsproj|c:\\users\\austin\\documents\\github\\cs510-project3\\microml.ast\\ast.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\temp\\Program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Clients\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Pages\\index.html",
+              "RelativeDocumentMoniker": "Pages\\index.html",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Pages\\index.html",
+              "RelativeToolTip": "Pages\\index.html",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-16T01:47:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T01:33:13.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parser.fs",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.AST\\Parser.fs",
+              "RelativeDocumentMoniker": "..\\MicroML.AST\\Parser.fs",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.AST\\Parser.fs",
+              "RelativeToolTip": "..\\MicroML.AST\\Parser.fs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-16T01:16:25.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MicroML.AST.fsproj",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.AST\\MicroML.AST.fsproj",
+              "RelativeDocumentMoniker": "..\\MicroML.AST\\MicroML.AST.fsproj",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.AST\\MicroML.AST.fsproj",
+              "RelativeToolTip": "..\\MicroML.AST\\MicroML.AST.fsproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-05-16T01:15:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AST.fs",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.AST\\AST.fs",
+              "RelativeDocumentMoniker": "..\\MicroML.AST\\AST.fs",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.AST\\AST.fs",
+              "RelativeToolTip": "..\\MicroML.AST\\AST.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-16T01:16:14.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\temp\\Program.fs",
+              "RelativeDocumentMoniker": "..\\temp\\Program.fs",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\temp\\Program.fs",
+              "RelativeToolTip": "..\\temp\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-16T01:12:45.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-16T01:08:27.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T01:33:32.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MicroML.Web.fsproj",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\MicroML.Web.fsproj",
+              "RelativeDocumentMoniker": "MicroML.Web.fsproj",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\MicroML.Web.fsproj",
+              "RelativeToolTip": "MicroML.Web.fsproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-05-16T01:08:38.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Clients\\style.css",
+              "RelativeDocumentMoniker": "Clients\\style.css",
+              "ToolTip": "C:\\Users\\Austin\\Documents\\GitHub\\cs510-project3\\MicroML.Web\\Clients\\style.css",
+              "RelativeToolTip": "Clients\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-16T01:11:56.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

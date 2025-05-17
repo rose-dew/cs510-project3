@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MicroML AST Visualizer</title>
+    <link rel="stylesheet" href="/Client/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>MicroML AST Visualizer</h1>
+
+        <div class="input-section">
+            <textarea id="codeInput" placeholder="Enter MicroML code here..."></textarea>
+            <button id="parseButton">Parse & Visualize AST</button>
+        </div>
+
+        <div class="output-section">
+            <h2>Abstract Syntax Tree</h2>
+            <div id="astVisualization"></div>
+        </div>
+    </div>
+
+    <script src="/Client/app.js"></script>
+</body>
+</html>
