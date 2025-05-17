@@ -22,10 +22,3 @@ A web application built with F# and the SAFE stack that parses MicroML code and 
 
 - [.NET 6.0+ SDK](https://dotnet.microsoft.com/download)
 - [Node.js 16+](https://nodejs.org/)
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/microml-ast-visualizer.git
-   cd microml-ast-visualizer
